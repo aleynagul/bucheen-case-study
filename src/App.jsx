@@ -1,6 +1,6 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-// import FeelingsSection from "./components/FeelingsSection";
+import FeelingsSection from "./components/FeelingsSection";
 // import HowItWorks from "./components/HowItWorks";
 // import PopularProfiles from "./components/PopularProfiles";
 // import Testimonials from "./components/Testimonials";
@@ -11,8 +11,8 @@ function App() {
     <>
       <Navbar />
       <Hero />
-      {/* <FeelingsSection />
-      <HowItWorks />
+      <FeelingsSection />
+      {/* <HowItWorks />
       <PopularProfiles />
       <Testimonials />
       <Footer /> */}
